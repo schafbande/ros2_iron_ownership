@@ -273,8 +273,8 @@ repositories:
     version: iron
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: iron
+    url: https://github.com/schafbande/rclcpp_FRoST.git
+    version: rclcpp_FRoST_ownership
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
@@ -293,8 +293,8 @@ repositories:
     version: iron
   ros2/rmw:
     type: git
-    url: https://github.com/ros2/rmw.git
-    version: iron
+    url: https://github.com/schafbande/rmw_FRoST.git
+    version: rmw_FRoST_ownership
   ros2/rmw_connextdds:
     type: git
     url: https://github.com/ros2/rmw_connextdds.git
@@ -305,12 +305,12 @@ repositories:
     version: iron
   ros2/rmw_dds_common:
     type: git
-    url: https://github.com/ros2/rmw_dds_common.git
-    version: iron
+    url: https://github.com/schafbande/rmw_dds_common_FRoST.git
+    version: rmw_dds_common_FRoST_ownership
   ros2/rmw_fastrtps:
     type: git
-    url: https://github.com/ros2/rmw_fastrtps.git
-    version: iron
+    url: https://github.com/schafbande/rmw_fastrtps_FRoST.git
+    version: rmw_fastrtps_FRoST_ownership
   ros2/rmw_implementation:
     type: git
     url: https://github.com/ros2/rmw_implementation.git
