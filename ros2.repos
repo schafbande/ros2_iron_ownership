@@ -313,8 +313,8 @@ repositories:
     version: rmw_fastrtps_FRoST_ownership
   ros2/rmw_implementation:
     type: git
-    url: https://github.com/ros2/rmw_implementation.git
-    version: iron
+    url: https://github.com/schafbande/rmw_implementation_FRoST.git
+    version: rmw_implementation_FRoST_ownership
   ros2/ros2_tracing:
     type: git
     url: https://github.com/ros2/ros2_tracing.git
